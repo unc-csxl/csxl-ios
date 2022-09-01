@@ -38,6 +38,7 @@ iOS developers use Xcode to build, run, and deploy their apps. It's an IDE full 
 
 1. Click [here](https://apps.apple.com/us/app/xcode/id497799835?mt=12) to download (or update) Xcode from the Mac App Store.
    - Warning: This might take a long time depending on your network speed.
+   - Another warning: Xcode is currently a 12.6 GB download. You may need to clear out some disk space to complete this step.
 2. After installation has completed, open Xcode from your Applications folder and complete all of the onboarding stages.
 3. When you see this window, you've successfully installed Xcode!!
 
