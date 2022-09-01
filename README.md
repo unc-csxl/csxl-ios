@@ -45,7 +45,7 @@ iOS developers use Xcode to build, run, and deploy their apps. It's an IDE full 
 
 ### SF Symbols
 
-One of the absolute best things about developing for Apple platforms is the built-in library of free, ultra-high quality, customizable icons called SF Symbols.
+One of the absolute best things about developing for Apple platforms is the built-in library of free, high quality, customizable icons called SF Symbols.
 
 We will be downloading a small app conveniently called SF Symbols to browse these icons. Click [here](https://devimages-cdn.apple.com/design/resources/download/SF-Symbols-3.3.dmg) to download the app.
 
