@@ -27,7 +27,7 @@ A window like this will open. If it says you’re running macOS 12.5.1, you’re
 
 <details>
 		<summary>What should I do if my device cannot run macOS 12?</summary>
-    <a href="https://support.apple.com/en-us/HT212551">Here</a> is a list of devices that can run macOS 12. If you’re device is not supported, reach out to Sam (<a href="mailto:samshi@live.unc.edu">samrshi@outlook.com</a>), and we will do our best to figure something out.
+    <a href="https://support.apple.com/en-us/HT212551">Here</a> is a list of devices that can run macOS 12. If you’re device is not supported, reach out to Sam (<a href="mailto:samshi@live.unc.edu">samshi@live.unc.edu</a>), and we will do our best to figure something out.
 </details>
 
 <img src="Resources/about-dark.png" width="500px"/>
