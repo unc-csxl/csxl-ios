@@ -36,7 +36,7 @@ A window like this will open. If it says you’re running macOS 12.5.1, you’re
 
 iOS developers use Xcode to build, run, and deploy their apps. It's an IDE full of useful development tools such as a fantastic code editor, great debugging tools, and Simulators that allow you to run iOS apps directly on your Mac!!
 
-1. Click [here](https://apps.apple.com/us/app/xcode/id497799835?mt=12) to download (or update) Xcode from the Mac App Store. We will be running this workshop expecting you to be using Xcode.
+1. Click [here](https://apps.apple.com/us/app/xcode/id497799835?mt=12) to download (or update) Xcode from the Mac App Store.
    - Warning: This might take a long time depending on your network speed.
 2. After installation has completed, open Xcode from your Applications folder and complete all of the onboarding stages.
 3. When you see this window, you've successfully installed Xcode!!
