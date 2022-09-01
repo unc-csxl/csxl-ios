@@ -49,6 +49,17 @@ One of the absolute best things about developing for Apple platforms is the buil
 
 We will be downloading a small app conveniently called SF Symbols to browse these icons. Click [here](https://devimages-cdn.apple.com/design/resources/download/SF-Symbols-3.3.dmg) to download the app.
 
+### Starter code
+
+To get access to the starter code, follow the following steps...
+
+1. Visit this repositiory's **Code** tab [here](https://github.com/unc-csxl/csxl-ios.git).
+2. Press the big, green **Use this template** button to create a new repository using this template (so you can put your work on GitHub).
+3. Select your username as the repository's **Owner**, and call the repository `csxl-ios`.
+4. After GitHub has generated the repository, click on the big green **Code** button, and copy the repository's URL.
+5. Open a terminal and run `git clone <#the url you just copied#>` in the directory of your choice.
+6. You're all set!
+
 ### Troubleshooting
 
 If you have any issues with this technology setup, please visit us in the XL (SN027) or [contact Sam](mailto:samshi@live.unc.edu) directly to get help.
