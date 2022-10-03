@@ -50,7 +50,9 @@ One of the absolute best things about developing for Apple platforms is the buil
 
 We will be downloading a small app conveniently called SF Symbols to browse these icons. Click [here](https://devimages-cdn.apple.com/design/resources/download/SF-Symbols-3.3.dmg) to download the app.
 
-<!---
+### Figma Reference
+Click [here](https://www.figma.com/file/dGddoyf7WD3A3FwUx7R1ao/CSXL-Spotify-Recreation?node-id=12%3A121) for the Figma reference.
+
 ### Starter code
 
 To get access to the starter code, follow the following steps...
@@ -61,7 +63,6 @@ To get access to the starter code, follow the following steps...
 4. After GitHub has generated the repository, click on the big green **Code** button, and copy the repository's URL.
 5. Open a terminal and run `git clone <#the url you just copied#>` in the directory of your choice.
 6. You're all set!
---->
 
 ### Troubleshooting
 
