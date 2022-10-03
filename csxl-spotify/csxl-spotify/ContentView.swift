@@ -42,7 +42,7 @@ struct ContentView: View {
     @ViewBuilder private var trackInfo: some View {
         let heartButtonWidth: CGFloat = 24
         
-        Text("Track button information")
+        Text("Track information")
     }
     
     @ViewBuilder private var timeControls: some View {
